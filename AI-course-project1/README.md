@@ -1,7 +1,7 @@
 # AI-course-project1
 
 
-to do:
+NerualNet to do:
 
 1. Modify codes into ours
 
